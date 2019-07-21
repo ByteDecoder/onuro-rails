@@ -1,8 +1,9 @@
 # Onuro::Rails
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/onuro/rails`. To experiment with that code, run `bin/console` for an interactive prompt.
+Workflow Engine based in events that execute a collection of rules defined in the event configuration definition
+with install generator for Rails.
 
-TODO: Delete this and the text above, and describe your gem
+To learn more about Onuro Workflow Engine, take a look to  [Onuro](https://github.com/ByteDecoder/onuro)
 
 ## Installation
 
@@ -22,7 +23,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ bundle exec rails onuro:install
 
 ## Development
 
@@ -32,4 +33,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/onuro-rails.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ByteDecoder/onuro.
+
+
+Copyright (c) 2019 [Rodrigo Reyes](https://twitter.com/bytedecoder) released under the MIT license

@@ -1,4 +1,6 @@
-require "onuro/rails/version"
+# frozen_string_literal: true
+
+require 'onuro/rails/version'
 
 module Onuro
   module Rails
