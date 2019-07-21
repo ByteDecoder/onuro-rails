@@ -1,4 +1,4 @@
-# Onuro::Rails
+# Onuro-Rails
 
 Workflow Engine based in events that execute a collection of rules defined in the event configuration definition
 with install generator for Rails.
