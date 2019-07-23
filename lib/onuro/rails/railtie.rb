@@ -6,7 +6,7 @@ module Onuro
     # to extend Rails and/or modify the initialization process.
     # Extension for looading Rails Generators
     class Railtie < ::Rails::Railtie
-      PATH = File.expand_path('../../templates', __dir__)
+      PATH = '../../generators/onuro/install_generator.rb'
       onuro_install_generator_path = File.expand_path(PATH, __dir__)
 
       config.app_generators do

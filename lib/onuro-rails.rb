@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'onuro'
 require 'onuro/rails/version'
 require 'onuro/rails/railtie' if defined?(Rails)
 require 'generators/onuro/install_generator' if defined?(Rails)
