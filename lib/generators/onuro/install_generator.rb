@@ -8,6 +8,7 @@ module Onuro
       desc 'Creates Onuro initializer for your application'
 
       def copy_initializer
+        p File.expand_path('../../templates', __dir__)
         template 'onuro_initializer.rb', 'config/initializers/onuro.rb'
 
         puts 'Install complete! Legion awaits!'
