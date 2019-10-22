@@ -23,7 +23,7 @@ Or install it yourself as:
 
 ## Usage
 
-    $ bundle exec rails onuro:install
+    $ bundle exec rails generate onuro:install
 
 ## Development
 
