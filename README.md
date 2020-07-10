@@ -1,3 +1,4 @@
+![Ruby](https://github.com/ByteDecoder/onuro-rails/workflows/Ruby/badge.svg)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a5e0e79038ef84f7197e/maintainability)](https://codeclimate.com/github/ByteDecoder/onuro-rails/maintainability)
 
 # onuro-rails
