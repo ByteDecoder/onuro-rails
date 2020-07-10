@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/a5e0e79038ef84f7197e/maintainability)](https://codeclimate.com/github/ByteDecoder/onuro-rails/maintainability)
+
 # onuro-rails
 
 Workflow Engine based in events that execute a collection of rules defined in the event configuration definition
